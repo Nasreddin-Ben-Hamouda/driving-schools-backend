@@ -1,0 +1,1160 @@
+2021-05-23T02:13:14.758Z [1621735994405] error: uncaughtException: Unexpected token 'const'
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:38
+    const token = new VerificationToken({
+    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:38
+    const token = new VerificationToken({
+    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:26:59.590Z [1621736819339] error: uncaughtException: Unexpected token 'export'
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:27:18.768Z [1621736838539] error: uncaughtException: Unexpected token 'export'
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:27:31.409Z [1621736851179] error: uncaughtException: Unexpected token 'export'
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/mailtrapEmailObject.js:20
+export default email;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:12:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:46:12.527Z [1621737972267] error: uncaughtException: Invalid regular expression: missing /
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:56
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:56
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:47:08.205Z [1621738027838] error: uncaughtException: Invalid regular expression: missing /
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:47:35.773Z [1621738055547] error: uncaughtException: Invalid regular expression: missing /
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + `http://${config.get('frontendUrl')}/user/confirmation/` + token.token </b>`
+                                                                                          ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:51:44.862Z [1621738304648] error: uncaughtException: missing ) after argument list
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + "http://"+config.get('frontendUrl')}+"/user/confirmation/" + token.token +"</b>"
+                                                                                            ^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + "http://"+config.get('frontendUrl')}+"/user/confirmation/" + token.token +"</b>"
+                                                                                            ^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T02:52:51.718Z [1621738371347] error: uncaughtException: missing ) after argument list
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + "http://"+config.get('frontendUrl')}+"/user/confirmation/" + token.token +"</b>"+""
+                                                                                                   ^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:57
+                + "http://"+config.get('frontendUrl')}+"/user/confirmation/" + token.token +"</b>"+""
+                                                                                                   ^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T07:38:51.152Z [1621755530935] error: uncaughtException: Unexpected token '*'
+/home/nasreddin/Projects/Node js/AE/auth-service/middleware/authorization.js:19
+        if(!user.isConfirmed) return res.status(401).send({message: 'Your account not confirmed yet'});*/
+                                                                                                       ^
+
+SyntaxError: Unexpected token '*'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/authentication.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/middleware/authorization.js:19
+        if(!user.isConfirmed) return res.status(401).send({message: 'Your account not confirmed yet'});*/
+                                                                                                       ^
+
+SyntaxError: Unexpected token '*'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/authentication.js:10:23)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-23T22:52:02.521Z [1621808853645] error: uncaughtException: Pool was force destroyed
+MongoError: Pool was force destroyed
+    at Pool.destroy (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/connection/pool.js:679:21)
+    at Server.destroy (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/topologies/server.js:904:15)
+    at Timeout._onTimeout (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/topologies/replset.js:357:26)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7) MongoError: Pool was force destroyed
+    at Pool.destroy (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/connection/pool.js:679:21)
+    at Server.destroy (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/topologies/server.js:904:15)
+    at Timeout._onTimeout (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongodb/lib/core/topologies/replset.js:357:26)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+2021-05-23T22:52:31.078Z [1621810350833] error: uncaughtException: querySrv ENODATA _mongodb._tcp.cluster0.ftvww.mongodb.net
+Error: querySrv ENODATA _mongodb._tcp.cluster0.ftvww.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19) Error: querySrv ENODATA _mongodb._tcp.cluster0.ftvww.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19)
+2021-05-24T09:09:02.376Z [1621847341660] error: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:21:8)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18) Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:21:8)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+2021-05-24T09:10:17.476Z [1621847417221] error: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:21:8)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18) Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as get] (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:21:8)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+2021-05-26T12:51:07.873Z [1622033467472] error: uncaughtException: Unexpected token ','
+/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:76
+router.post('/forgotPassword', ,async (req, res) => {
+                               ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:76
+router.post('/forgotPassword', ,async (req, res) => {
+                               ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:35:33.726Z [1622039733445] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:36:33.951Z [1622039793379] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:36:45.328Z [1622039805078] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:36:54.923Z [1622039814660] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:37:26.225Z [1622039845952] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:37:56.001Z [1622039875778] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:45:34.894Z [1622040334439] error: uncaughtException: Unexpected string
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="" width=\"300\">\n" +
+                                                   ^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="" width=\"300\">\n" +
+                                                   ^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T14:59:22.945Z [1622041162542] error: uncaughtException: Invalid left-hand side expression in postfix operation
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:290
+        "                    <img src="++" alt=\"\" style=\"width:80px; max-width:100px; height: auto; margin: auto; display: block;\">\n" +
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid left-hand side expression in postfix operation
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:290
+        "                    <img src="++" alt=\"\" style=\"width:80px; max-width:100px; height: auto; margin: auto; display: block;\">\n" +
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid left-hand side expression in postfix operation
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T15:00:16.530Z [1622041216146] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/public/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/public/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T15:00:37.122Z [1622041236727] error: uncaughtException: Invalid or unexpected token
+/home/nasreddin/Projects/Node js/AE/auth-service/public/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/public/logo.png:1
+�PNG
+
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:11)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T15:05:27.397Z [1622041527157] error: uncaughtException: Unexpected identifier
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:290
+        "                    <img src="logo.png" alt=\"\" style=\"width:80px; max-width:100px; height: auto; margin: auto; display: block;\">\n" +
+                                       ^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:290
+        "                    <img src="logo.png" alt=\"\" style=\"width:80px; max-width:100px; height: auto; margin: auto; display: block;\">\n" +
+                                       ^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T15:06:06.205Z [1622041565752] error: uncaughtException: Unexpected identifier
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="logo.png" width=\"300\">\n" +
+                                                   ^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="logo.png" width=\"300\">\n" +
+                                                   ^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-05-26T15:09:29.798Z [1622041769367] error: uncaughtException: ENOENT: no such file or directory, open '../public/logo.png'
+Error: ENOENT: no such file or directory, open '../public/logo.png'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18) Error: ENOENT: no such file or directory, open '../public/logo.png'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+2021-05-26T15:09:43.766Z [1622041783285] error: uncaughtException: ENOENT: no such file or directory, open '../public/logo.png'
+Error: ENOENT: no such file or directory, open '../public/logo.png'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18) Error: ENOENT: no such file or directory, open '../public/logo.png'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:1:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+2021-05-26T15:16:46.660Z [1622042206376] error: uncaughtException: Unexpected identifier
+/home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="+__dirname+"/public/logo.png" width=\"300\">\n" +
+                                                                                 ^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30) /home/nasreddin/Projects/Node js/AE/auth-service/helper/confirmation-account-mail-template.js:282
+        "                                <img src="+__dirname+"/public/logo.png" width=\"300\">\n" +
+                                                                                 ^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/routes/users.js:13:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
