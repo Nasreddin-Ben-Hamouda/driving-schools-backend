@@ -2114,3 +2114,13 @@
 2021-05-27T00:28:26.719Z [1622075298758] info: method:POST  url:/user/forgotPassword 
 2021-05-27T00:28:59.550Z [1622075298758] info: method:POST  url:/user/resetPassword/da325a79ed2a978b9d9c9d2e 
 2021-05-27T00:29:09.153Z [1622075298758] info: method:POST  url:/auth/login 
+2021-05-29T09:27:53.765Z [1622280470335] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T09:29:17.446Z [1622280470335] info: method:GET  url:/auth/whoami 
+2021-05-29T09:29:45.319Z [1622280470335] info: method:POST  url:/auth/login 
+2021-05-29T09:33:56.043Z [1622280470335] info: method:GET  url:/auth/whoami 
+2021-05-29T09:51:03.297Z [1622280470335] info: method:GET  url:/auth/whoami 
+2021-05-29T10:19:54.236Z [1622283592029] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T10:20:16.577Z [1622283615950] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T11:13:51.437Z [1622286830830] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T11:16:10.153Z [1622286830830] info: method:GET  url:/auth/whoami 
+2021-05-29T11:45:42.802Z [1622286830830] info: method:GET  url:/auth/whoami 

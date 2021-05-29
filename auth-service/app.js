@@ -23,6 +23,6 @@ handleRejection();
 
 
 // Register the service in eureka register
-//eurekaHelper.registerWithEureka('auth-service', process.env.PORT || '3006');
+//eurekaHelper.registerWithEureka('auth-service', process.env.PORT || '3001');
 
 module.exports = app;

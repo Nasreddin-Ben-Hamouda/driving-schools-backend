@@ -7851,3 +7851,23 @@
 2021-05-27T00:26:45.687Z [1622075119437] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
 2021-05-27T00:27:17.345Z [1622075119437] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
 2021-05-27T00:27:17.351Z [1622075119437] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T09:47:44.879Z [1622281661509] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T09:50:51.736Z [1622281850648] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T10:46:17.820Z [1622285177023] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T11:12:57.019Z [1622286776260] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T11:16:43.175Z [1622286776260] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:16:43.186Z [1622286776260] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:16:54.496Z [1622286776260] info: method:OPTIONS  url:/monitor/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:16:54.516Z [1622286776260] info: method:GET  url:/monitor/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:16:59.033Z [1622286776260] info: method:OPTIONS  url:/monitor/60a06492efad6a68e64b75c1 
+2021-05-29T11:16:59.045Z [1622286776260] info: method:PUT  url:/monitor/60a06492efad6a68e64b75c1 
+2021-05-29T11:16:59.424Z [1622286776260] info: method:GET  url:/monitor/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:17:18.573Z [1622286776260] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:17:18.576Z [1622286776260] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:17:25.152Z [1622286776260] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:17:25.156Z [1622286776260] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:27:09.016Z [1622287628275] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-29T11:43:49.153Z [1622287628275] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:43:49.161Z [1622287628275] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:46:15.182Z [1622287628275] info: method:OPTIONS  url:/monitor/606f0dc7e3bf6a72dd524d4f 
+2021-05-29T11:46:15.189Z [1622287628275] info: method:GET  url:/monitor/606f0dc7e3bf6a72dd524d4f 

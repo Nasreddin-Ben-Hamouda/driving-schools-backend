@@ -4243,3 +4243,52 @@ SyntaxError: Missing catch or finally after try
     at Module.require (internal/modules/cjs/loader.js:952:19)
     at require (internal/modules/cjs/helpers.js:88:18)
     at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/subscription-service/bin/www:7:11)
+2021-05-29T11:43:04.253Z [1622288584011] error: uncaughtException: Cannot find module 'bcrypt'
+Require stack:
+- /home/nasreddin/Projects/Node js/AE/subscription-service/routes/clients.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/startup/routes.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/app.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/bin/www
+Error: Cannot find module 'bcrypt'
+Require stack:
+- /home/nasreddin/Projects/Node js/AE/subscription-service/routes/clients.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/startup/routes.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/app.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/bin/www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/subscription-service/routes/clients.js:9:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/subscription-service/startup/routes.js:7:17)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14) Error: Cannot find module 'bcrypt'
+Require stack:
+- /home/nasreddin/Projects/Node js/AE/subscription-service/routes/clients.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/startup/routes.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/app.js
+- /home/nasreddin/Projects/Node js/AE/subscription-service/bin/www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/subscription-service/routes/clients.js:9:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/subscription-service/startup/routes.js:7:17)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
