@@ -2124,3 +2124,103 @@
 2021-05-29T11:13:51.437Z [1622286830830] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
 2021-05-29T11:16:10.153Z [1622286830830] info: method:GET  url:/auth/whoami 
 2021-05-29T11:45:42.802Z [1622286830830] info: method:GET  url:/auth/whoami 
+2021-05-31T01:22:00.408Z [1622424119612] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-05-31T01:23:24.325Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:27:02.703Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:28:21.220Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:28:48.574Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:29:05.171Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:31:45.639Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:32:23.326Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:33:09.783Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:33:45.835Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:34:32.481Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:35:09.117Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:36:20.001Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:37:17.438Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:37:47.345Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:38:11.531Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:38:45.959Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:39:44.205Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:40:40.839Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:41:28.384Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:43:12.092Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:46:03.025Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:48:10.140Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:50:21.138Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:50:47.103Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:52:33.215Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:52:37.161Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:54:52.321Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:55:34.419Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:56:04.241Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:56:32.916Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:56:36.143Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T01:57:35.303Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:02:48.244Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:11:07.251Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:12:02.194Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:12:54.578Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:17:11.242Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:17:15.800Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:17:26.222Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:17:28.821Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:18:33.274Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:18:36.344Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:18:49.911Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:19:12.196Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:19:38.370Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-05-31T02:25:32.933Z [1622424119612] info: method:GET  url:/auth/whoami 
+2021-06-13T16:11:26.085Z [1623600681744] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T16:14:07.081Z [1623600681744] info: method:GET  url:/auth/whoami 
+2021-06-13T16:18:16.360Z [1623600681744] info: method:GET  url:/auth/whoami 
+2021-06-13T16:24:21.871Z [1623600681744] info: method:POST  url:/auth/login 
+2021-06-13T16:54:26.251Z [1623603265194] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:11:12.459Z [1623607871426] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:13:42.553Z [1623608021510] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:14:59.713Z [1623608098685] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:15:10.358Z [1623608109484] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:18:52.875Z [1623608331718] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:22:21.149Z [1623608540191] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:24:00.091Z [1623608639046] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:30:17.797Z [1623609016888] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:30:28.378Z [1623609016888] info: method:POST  url:/social-login 
+2021-06-13T18:31:32.672Z [1623609016888] info: method:POST  url:/auth/social-login 
+2021-06-13T18:32:07.424Z [1623609126720] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:32:12.458Z [1623609131805] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:32:15.525Z [1623609134692] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:32:28.959Z [1623609134692] info: method:POST  url:/auth/social-login 
+2021-06-13T18:32:49.401Z [1623609134692] info: method:POST  url:/auth/login 
+2021-06-13T18:33:38.529Z [1623609134692] info: method:GET  url:/auth/whoami 
+2021-06-13T18:35:24.594Z [1623609323660] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:35:41.185Z [1623609340355] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T18:37:46.821Z [1623609340355] info: method:GET  url:/auth/whoami 
+2021-06-13T18:40:03.887Z [1623609340355] info: method:GET  url:/auth/whoami 
+2021-06-13T18:40:14.074Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:41:07.822Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:42:36.377Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:43:37.284Z [1623609340355] info: method:POST  url:/auth/login 
+2021-06-13T18:44:56.731Z [1623609340355] info: method:GET  url:/auth/whoami 
+2021-06-13T18:45:26.139Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:47:58.371Z [1623609340355] info: method:POST  url:/auth/login 
+2021-06-13T18:50:43.683Z [1623609340355] info: method:GET  url:/auth/whoami 
+2021-06-13T18:50:58.781Z [1623609340355] info: method:POST  url:/auth/login 
+2021-06-13T18:51:54.971Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:52:11.839Z [1623609340355] info: method:POST  url:/auth/login 
+2021-06-13T18:52:27.597Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:52:43.546Z [1623609340355] info: method:POST  url:/auth/login 
+2021-06-13T18:53:37.493Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:56:41.634Z [1623609340355] info: method:POST  url:/auth/social-login 
+2021-06-13T18:58:14.834Z [1623610693757] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-06-13T19:02:17.876Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T19:02:24.781Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T19:02:40.324Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T19:05:09.535Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T19:05:21.596Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T19:05:26.456Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T19:05:55.216Z [1623610693757] info: method:POST  url:/user 
+2021-06-13T19:06:17.511Z [1623610693757] info: method:GET  url:/user/confirmation/f7cd36b74e39d8a37866c228 
+2021-06-13T19:06:49.879Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T19:09:53.760Z [1623610693757] info: method:POST  url:/user/forgotPassword 
+2021-06-13T19:10:40.571Z [1623610693757] info: method:POST  url:/user/resetPassword/46eae687564d8517197c8cfa 
+2021-06-13T19:10:53.565Z [1623610693757] info: method:POST  url:/auth/login 

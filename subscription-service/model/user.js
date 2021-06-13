@@ -22,13 +22,13 @@ const userSchema = new mongoose.Schema({
     },
     password: {
         type: String,
-        required: true,
+        required: false,
         minlength: 8,
         maxlength: 255,
     },
     phone: {
         type: String,
-        required: true,
+        required: false,
         minLength: 8,
         maxLength: 13,
         trim: true,

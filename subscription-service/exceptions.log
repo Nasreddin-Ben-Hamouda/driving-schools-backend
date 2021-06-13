@@ -4292,3 +4292,13 @@ Require stack:
     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
     at Module.load (internal/modules/cjs/loader.js:928:32)
     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-06-13T18:46:33.908Z [1623600668747] error: uncaughtException: Users validation failed: phone: Path `phone` is required., password: Path `password` is required.
+ValidationError: Users validation failed: phone: Path `phone` is required., password: Path `password` is required.
+    at model.Document.invalidate (/home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/document.js:2703:32)
+    at /home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/document.js:2523:17
+    at /home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/schematype.js:1254:9
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) ValidationError: Users validation failed: phone: Path `phone` is required., password: Path `password` is required.
+    at model.Document.invalidate (/home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/document.js:2703:32)
+    at /home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/document.js:2523:17
+    at /home/nasreddin/Projects/Node js/AE/subscription-service/node_modules/mongoose/lib/schematype.js:1254:9
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
