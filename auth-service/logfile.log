@@ -2224,3 +2224,11 @@
 2021-06-13T19:09:53.760Z [1623610693757] info: method:POST  url:/user/forgotPassword 
 2021-06-13T19:10:40.571Z [1623610693757] info: method:POST  url:/user/resetPassword/46eae687564d8517197c8cfa 
 2021-06-13T19:10:53.565Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T23:15:23.027Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T23:15:47.895Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T23:16:05.429Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T23:24:02.894Z [1623610693757] info: method:POST  url:/auth/login 
+2021-06-13T23:48:08.174Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-13T23:51:21.934Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-14T00:02:37.443Z [1623610693757] info: method:POST  url:/auth/social-login 
+2021-06-14T00:05:08.892Z [1623610693757] info: method:POST  url:/auth/social-login 
