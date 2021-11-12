@@ -8021,3 +8021,36 @@
 2021-06-13T19:05:26.815Z [1623610233301] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
 2021-06-13T19:06:50.380Z [1623610233301] info: method:OPTIONS  url:/statistic/606f0dc7e3bf6a72dd524d4f 
 2021-06-13T19:06:50.383Z [1623610233301] info: method:GET  url:/statistic/606f0dc7e3bf6a72dd524d4f 
+2021-11-12T16:54:00.771Z [1636736035454] info: connection to db: mongodb+srv://dev:AutoEcole.TN@cluster0.ftvww.mongodb.net/auto-ecole-dev-1?retryWrites=true&w=majority succeeded 
+2021-11-12T17:12:47.145Z [1636737165298] info: connection to db: mongodb+srv://MongoUser:MongoPassword@cluster0.dlkzu.mongodb.net/test?retryWrites=true&w=majority succeeded 
+2021-11-12T18:55:30.078Z [1636737165298] info: method:OPTIONS  url:/statistic/618eb8a1bbcffd4899996ffd 
+2021-11-12T18:55:30.084Z [1636737165298] info: method:GET  url:/statistic/618eb8a1bbcffd4899996ffd 
+2021-11-12T19:15:01.518Z [1636737165298] info: method:OPTIONS  url:/statistic/618eb8a1bbcffd4899996ffd 
+2021-11-12T19:15:01.521Z [1636737165298] info: method:GET  url:/statistic/618eb8a1bbcffd4899996ffd 
+2021-11-12T19:16:33.271Z [1636737165298] info: method:OPTIONS  url:/statistic/618ebce09c2cd51e64165842 
+2021-11-12T19:16:33.275Z [1636737165298] info: method:GET  url:/statistic/618ebce09c2cd51e64165842 
+2021-11-12T19:27:23.551Z [1636745240047] info: connection to db: mongodb+srv://MongoUser:MongoPassword@cluster0.dlkzu.mongodb.net/test?retryWrites=true&w=majority succeeded 
+2021-11-12T19:29:08.532Z [1636745240047] info: method:OPTIONS  url:/statistic/618ec084d233e52615eaf55d 
+2021-11-12T19:29:08.540Z [1636745240047] info: method:GET  url:/statistic/618ec084d233e52615eaf55d 
+2021-11-12T19:29:14.275Z [1636745240047] info: method:OPTIONS  url:/monitor/618ec084d233e52615eaf55d 
+2021-11-12T19:29:14.279Z [1636745240047] info: method:GET  url:/monitor/618ec084d233e52615eaf55d 
+2021-11-12T19:29:15.405Z [1636745240047] info: method:OPTIONS  url:/car/618ec084d233e52615eaf55d 
+2021-11-12T19:29:15.408Z [1636745240047] info: method:GET  url:/car/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.171Z [1636745240047] info: method:OPTIONS  url:/session/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.176Z [1636745240047] info: method:GET  url:/session/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.176Z [1636745240047] info: method:OPTIONS  url:/session/clients/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.177Z [1636745240047] info: method:GET  url:/monitor/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.178Z [1636745240047] info: method:GET  url:/car/618ec084d233e52615eaf55d 
+2021-11-12T19:29:17.182Z [1636745240047] info: method:GET  url:/session/clients/618ec084d233e52615eaf55d 
+2021-11-12T19:29:18.912Z [1636745240047] info: method:OPTIONS  url:/session/requested/618ec084d233e52615eaf55d 
+2021-11-12T19:29:18.915Z [1636745240047] info: method:GET  url:/session/requested/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.706Z [1636745240047] info: method:OPTIONS  url:/exam/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.708Z [1636745240047] info: method:OPTIONS  url:/exam/agency/clients/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.709Z [1636745240047] info: method:OPTIONS  url:/monitor/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.710Z [1636745240047] info: method:OPTIONS  url:/car/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.713Z [1636745240047] info: method:GET  url:/exam/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.715Z [1636745240047] info: method:GET  url:/exam/agency/clients/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.716Z [1636745240047] info: method:GET  url:/monitor/618ec084d233e52615eaf55d 
+2021-11-12T19:29:20.716Z [1636745240047] info: method:GET  url:/car/618ec084d233e52615eaf55d 
+2021-11-12T19:29:21.875Z [1636745240047] info: method:OPTIONS  url:/exam/scheduled/618ec084d233e52615eaf55d 
+2021-11-12T19:29:21.877Z [1636745240047] info: method:GET  url:/exam/scheduled/618ec084d233e52615eaf55d 

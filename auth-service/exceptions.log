@@ -1158,3 +1158,295 @@ SyntaxError: Unexpected identifier
     at require (internal/modules/cjs/helpers.js:88:18)
     at Object.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/startup/routes.js:5:14)
     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-11-12T16:58:36.961Z [1636736308126] error: uncaughtException: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10) MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+2021-11-12T17:00:23.599Z [1636736421495] error: uncaughtException: failed to connect to server [cluster0-shard-00-02.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+MongoNetworkError: failed to connect to server [cluster0-shard-00-02.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10) MongoNetworkError: failed to connect to server [cluster0-shard-00-02.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+2021-11-12T17:00:39.268Z [1636736436571] error: uncaughtException: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10) MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+2021-11-12T17:01:04.443Z [1636736460449] error: uncaughtException: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10) MongoNetworkError: failed to connect to server [cluster0-shard-00-01.dlkzu.mongodb.net:27017] on first connect [MongoError: bad auth : Authentication failed.
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}]
+    at Pool.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/topologies/server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:562:14
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/pool.js:1009:9
+    at callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:75:5)
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:147:27
+    at /home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/auth/scram.js:186:14
+    at _callback (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:328:7)
+    at Connection.messageHandler (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:359:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:451:10)
+    at TLSSocket.<anonymous> (/home/nasreddin/Projects/Node js/AE/auth-service/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connection.js:620:15)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at TLSSocket.Readable.push (internal/streams/readable.js:223:10)
